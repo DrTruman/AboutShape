@@ -15,5 +15,13 @@ public class Rectangle {
     public  int getLength(){
         return this.l;
     }
+
+    public void setWidth(int w){
+        this.width = w;
+    }
+
+    public void setLength(int l){
+        this.length = l;
+    }
 } 
  
