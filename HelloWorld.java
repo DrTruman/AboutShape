@@ -8,5 +8,6 @@ public class HelloWorld {
         
         Rectangle myRect = new Rectangle(10, 20);
         System.out.println("Rectangle width is" + myRect.getWidth());
+        System.out.println("Rectangle length is" + myRect.getLength());
     }
 } 
