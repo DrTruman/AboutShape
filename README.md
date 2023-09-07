@@ -1,5 +1,8 @@
 # AboutShape
 
-This is a readme text entry.
+Programmers are free to use all the codes supplied in this project for learning purposes.
 
-All rights reserved.
+
+When you are contributing to the project, please reference to this website.
+
+Thank you very much.
