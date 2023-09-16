@@ -17,11 +17,11 @@ public class Rectangle {
     }
 
     public void setWidth(int w){
-        this.width = w;
+        this.w = w;
     }
 
     public void setLength(int l){
-        this.length = l;
+        this.l = l;
     }
 } 
  
